@@ -7,7 +7,7 @@ The Q-Learning algorithm builds a Q-table to store rewards for state-action pair
 This project is a simple example of reinforcement learning and can be extended to larger grids or more complex environments.
 ##  Watch the Demo
 
-![FrozenLake Q-Learning Demo](https://drive.google.com/uc?export=view&id=1LZKTGbIgM7ZLZP07Pz6UBKgCg1w989Hn)
+![FrozenLake Q-Learning Demo](https://drive.google.com/file/d/1LZKTGbIgM7ZLZP07Pz6UBKgCg1w989Hn/view?usp=sharing)
 
 ##  Features
 
